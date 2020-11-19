@@ -1,5 +1,10 @@
 @charset "utf-8";
 /* CSS Document */
+
+@font-face{
+	src: url(AldotheApache.ttf);
+}
+
 *{
 	margin: 0;
 	padding: 0;
