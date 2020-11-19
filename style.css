@@ -2,7 +2,11 @@
 /* CSS Document */
 
 @font-face{
-	src: url(AldotheApache.ttf);
+	font-family: "Aldo the Apache";
+	src: url(AldotheApache.ttf);	
+}
+@font-face{
+	font-family: "Caviar Dreams";
 	src: url(CaviarDreams.ttf);
 }
 
